@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bg3-db/static/css/main.0613fc75.css",
-    "main.js": "/bg3-db/static/js/main.5cb56d9f.js",
-    "static/js/787.f5847863.chunk.js": "/bg3-db/static/js/787.f5847863.chunk.js",
-    "static/media/logo.svg": "/bg3-db/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/bg3-db/index.html",
-    "main.0613fc75.css.map": "/bg3-db/static/css/main.0613fc75.css.map",
-    "main.5cb56d9f.js.map": "/bg3-db/static/js/main.5cb56d9f.js.map",
-    "787.f5847863.chunk.js.map": "/bg3-db/static/js/787.f5847863.chunk.js.map"
+    "main.css": "/static/css/main.67b77d48.css",
+    "main.js": "/static/js/main.ca62c84f.js",
+    "static/js/787.f5847863.chunk.js": "/static/js/787.f5847863.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.67b77d48.css.map": "/static/css/main.67b77d48.css.map",
+    "main.ca62c84f.js.map": "/static/js/main.ca62c84f.js.map",
+    "787.f5847863.chunk.js.map": "/static/js/787.f5847863.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0613fc75.css",
-    "static/js/main.5cb56d9f.js"
+    "static/css/main.67b77d48.css",
+    "static/js/main.ca62c84f.js"
   ]
 }
